@@ -2500,6 +2500,9 @@
         <VASSAL.build.module.PredefinedSetup file="ScenarioA_ToledoBeset.vsav" isMenu="false" name="Scenario A - Toledo Beset" useFile="true"/>
         <VASSAL.build.module.PredefinedSetup file="ScenarioB_QuellingOfTheTajo.vsav" isMenu="false" name="Scenario B - Quelling of the Tajo" useFile="true"/>
         <VASSAL.build.module.PredefinedSetup file="ScenarioC_PariasWars.vsav" isMenu="false" name="Scenario C - Parias Wars" useFile="true"/>
+        <VASSAL.build.module.PredefinedSetup file="ScenarioD_ArrivalOfTheAfricans.vsav" isMenu="false" name="Scenario D - Arrival of the Africans" useFile="true"/>
+        <VASSAL.build.module.PredefinedSetup file="ScenarioE_AlfonsoAndTheAlmoravids.vsav" isMenu="false" name="Scenario E - Alfonso and the Almoravids" useFile="true"/>
+        <VASSAL.build.module.PredefinedSetup file="ScenarioF_ReconquistaAndRiposte.vsav" isMenu="false" name="Scenario F - Reconquista and Riposte" useFile="true"/>
     </VASSAL.build.module.PredefinedSetup>
     <VASSAL.build.module.PredefinedSetup isMenu="false" name="Start With Blank Map" useFile="false"/>
     <VASSAL.build.module.StartupGlobalKeyCommand buttonHotkey="" buttonText="" deckCount="-1" filter="" hotkey="" icon="" name="Welcome Message" reportFormat="&lt;img src=&quot;d6-green-1.png&quot; width=&quot;14&quot; height=&quot;14&quot;&gt;&lt;img src=&quot;d6-yellow-2.png&quot; width=&quot;14&quot; height=&quot;14&quot;&gt;&lt;img src=&quot;d6-green-3.png&quot; width=&quot;14&quot; height=&quot;14&quot;&gt;&lt;b&gt;  $WelcomeMessage$  &lt;/b&gt;&lt;img src=&quot;d6-yellow-4.png&quot; width=&quot;14&quot; height=&quot;14&quot;&gt;&lt;img src=&quot;d6-green-5.png&quot; width=&quot;14&quot; height=&quot;14&quot;&gt;&lt;img src=&quot;d6-yellow-6.png&quot; width=&quot;14&quot; height=&quot;14&quot;&gt;" reportSingle="false" singleMap="true" target="MODULE|false|MAP|||||0|0||false|||EQUALS" tooltip=""/>
