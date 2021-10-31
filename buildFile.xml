@@ -1914,14 +1914,14 @@
     <VASSAL.build.module.PieceWindow defaultWidth="240" hidden="false" hotkey="80,520" icon="Button-Pieces.png" name="Pieces" scale="1.0" text="" tooltip="Pieces window">
         <VASSAL.build.widget.TabWidget entryName="Markers">
             <VASSAL.build.widget.PanelWidget entryName="Forces" fixed="true" nColumns="4" scale="0.6" vert="false">
-                <VASSAL.build.widget.PieceSlot entryName="Knights" gpid="658" height="38" width="45">+/null/prototype;Knights	piece;;;;Knights/	null;0;0;658;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Sergeants" gpid="660" height="38" width="45">+/null/prototype;Sergeants	piece;;;;Sergeants/	null;0;0;660;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="African Horse" gpid="0" height="38" width="45">+/null/prototype;African Horse	piece;;;;African Horse/	null;0;0;0;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Light Horse" gpid="662" height="38" width="45">+/null/prototype;Light Horse	piece;;;;Light Horse/	null;0;0;662;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Serfs" gpid="672" height="38" width="45">+/null/prototype;Serfs	piece;;;;Serfs/	null;0;0;672;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Men-at-Arms" gpid="664" height="38" width="45">+/null/prototype;Men-at-Arms	piece;;;;Men-at-Arms/	null;0;0;664;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="African Foot" gpid="666" height="38" width="45">+/null/prototype;African Foot	piece;;;;African Foot/	null;0;0;666;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Militia" gpid="670" height="38" width="45">+/null/prototype;Militia	piece;;;;Militia/	null;0;0;670;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Knights" gpid="658" height="67" width="67">+/null/prototype;Knights	piece;;;;Knights/	null;0;0;658;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Sergeants" gpid="660" height="67" width="67">+/null/prototype;Sergeants	piece;;;;Sergeants/	null;0;0;660;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="African Horse" gpid="0" height="67" width="67">+/null/prototype;African Horse	piece;;;;African Horse/	null;0;0;0;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Light Horse" gpid="662" height="67" width="67">+/null/prototype;Light Horse	piece;;;;Light Horse/	null;0;0;662;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Serfs" gpid="672" height="67" width="67">+/null/prototype;Serfs	piece;;;;Serfs/	null;0;0;672;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Men-at-Arms" gpid="664" height="67" width="67">+/null/prototype;Men-at-Arms	piece;;;;Men-at-Arms/	null;0;0;664;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="African Foot" gpid="666" height="67" width="67">+/null/prototype;African Foot	piece;;;;African Foot/	null;0;0;666;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Militia" gpid="670" height="67" width="67">+/null/prototype;Militia	piece;;;;Militia/	null;0;0;670;0</VASSAL.build.widget.PieceSlot>
             </VASSAL.build.widget.PanelWidget>
             <VASSAL.build.widget.PanelWidget entryName="Assets" fixed="true" nColumns="5" scale="0.42" vert="false">
                 <VASSAL.build.widget.PieceSlot entryName="Cart" gpid="432" height="26" width="31">+/null/prototype;Cart Marker 1	piece;;;;Cart/	null;0;0;432;0</VASSAL.build.widget.PieceSlot>
