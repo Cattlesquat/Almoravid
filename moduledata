@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <data version="1">
   <version>1.0</version>
-  <VassalVersion>3.6.0-SNAPSHOT</VassalVersion>
-  <dateSaved>1636222700638</dateSaved>
+  <VassalVersion>3.6.0-beta6</VassalVersion>
+  <dateSaved>1636742334393</dateSaved>
   <description>Volko Ruhnke's Game of Reconquista and Riposte in Spain, 1085-1086</description>
   <name>Almoravid</name>
 </data>
