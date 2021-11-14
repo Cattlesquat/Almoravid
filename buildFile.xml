@@ -2519,6 +2519,7 @@
             <VASSAL.build.module.map.Zoomer inButtonText="" inIconName="zoom-in.png" inTooltip="Zoom in" outButtonText="" outIconName="zoom-out.png" outTooltip="Zoom out" pickButtonText="" pickIconName="zoom-fit-best.png" pickTooltip="Select Zoom" zoomInKey="" zoomLevels="0.33,0.4,0.5,0.6,0.75,1.0,1.25,1.5,1.75,2.0" zoomOutKey="" zoomPickKey="" zoomStart="5"/>
         </VASSAL.build.module.Map>
     </VASSAL.build.module.folder.ModuleSubFolder>
+    <VASSAL.build.module.NotesWindow buttonText="" description="Notes Window" hotkey="78,520" icon="notes_button.gif" tooltip="Notes Window for Public and Private Notes"/>
     <VASSAL.build.module.folder.ModuleSubFolder desc="" name="Scenario Updating Tools">
         <VASSAL.build.module.GlobalKeyCommand buttonHotkey="" buttonText="" deckCount="-1" filter="{(BasicName==&quot;M17 - León y Castilla Rivalry / Arrada&quot;)}" hotkey="57421,0,DebugReportPosition" icon="" name="Enabled to send commands to things" reportFormat="" reportSingle="false" singleMap="true" target="MODULE|false|MAP|||||0|0||false|||EQUALS" tooltip=""/>
         <VASSAL.build.module.PieceWindow defaultWidth="0" hidden="true" hotkey="83,715" icon="Button-Crescent.png" name="Scenario Updating Palette" scale="1.0" text="Scenario" tooltip="Show/Hide the Scenario Updating palette">
