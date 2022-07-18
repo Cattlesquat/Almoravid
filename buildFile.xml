@@ -240,7 +240,7 @@
         <VASSAL.build.module.properties.GlobalTranslatableMessage description="" initialValue="Christian" name="GlobalChristianName"/>
         <VASSAL.build.module.properties.GlobalTranslatableMessage description="" initialValue="Muslims" name="GlobalMuslimsName"/>
         <VASSAL.build.module.properties.GlobalTranslatableMessage description="" initialValue="Muslim" name="GlobalMuslimName"/>
-        <VASSAL.build.module.properties.GlobalTranslatableMessage description="" initialValue="Almoravid - Vassal Module 1.0 - 17-Oct-2021" name="WelcomeMessage"/>
+        <VASSAL.build.module.properties.GlobalTranslatableMessage description="" initialValue="Almoravid - Vassal Module 1.1 - 16-July-2022" name="WelcomeMessage"/>
     </VASSAL.build.module.properties.GlobalTranslatableMessages>
     <VASSAL.build.module.PrototypesContainer>
         <VASSAL.build.module.folder.PrototypeFolder desc="" name="Cards">
