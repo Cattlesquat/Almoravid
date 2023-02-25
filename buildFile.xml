@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<VASSAL.build.GameModule ModuleOther1="" ModuleOther2="" VassalVersion="3.6.12" description="Volko Ruhnke's Game of Reconquista and Riposte in Spain, 1085-1086" name="Almoravid" nextPieceSlotId="1323" version="1.3">
+<VASSAL.build.GameModule ModuleOther1="" ModuleOther2="" VassalVersion="3.6.13" description="Volko Ruhnke's Game of Reconquista and Riposte in Spain, 1085-1086" name="Almoravid" nextPieceSlotId="1323" version="1.3">
     <VASSAL.build.module.BasicCommandEncoder/>
     <VASSAL.build.module.Documentation>
         <VASSAL.build.module.documentation.AboutScreen fileName="CoverFrontHalf.png" title="About Module"/>
@@ -240,7 +240,7 @@
         <VASSAL.build.module.properties.GlobalTranslatableMessage description="" initialValue="Christian" name="GlobalChristianName"/>
         <VASSAL.build.module.properties.GlobalTranslatableMessage description="" initialValue="Muslims" name="GlobalMuslimsName"/>
         <VASSAL.build.module.properties.GlobalTranslatableMessage description="" initialValue="Muslim" name="GlobalMuslimName"/>
-        <VASSAL.build.module.properties.GlobalTranslatableMessage description="" initialValue="Almoravid - Vassal Module 1.1 - 16-July-2022" name="WelcomeMessage"/>
+        <VASSAL.build.module.properties.GlobalTranslatableMessage description="" initialValue="Almoravid - Vassal Module 1.3 - 25-Feb-2023" name="WelcomeMessage"/>
     </VASSAL.build.module.properties.GlobalTranslatableMessages>
     <VASSAL.build.module.PrototypesContainer>
         <VASSAL.build.module.folder.PrototypeFolder desc="" name="Cards">
